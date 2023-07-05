@@ -63,7 +63,7 @@ http://listen.181fm.com/181-oldschool_128k.mp3
 # ============================================================================
 
 
-# LoFi/Chill (3)
+# LoFi/Chill/TripHop (4)
 # ============================================================================
 # Chillofi Radio
 http://streams.dez.ovh:8000/radio.mp3
@@ -73,6 +73,9 @@ https://live.hunter.fm/lofi_high
 
 # FluxFM - ChillHop
 http://fluxfm.streamabc.net/flx-chillhop-mp3-320-1595440
+
+# Soft Radio
+https://str3.openstream.co/2339
 # ============================================================================
 
 
@@ -105,7 +108,7 @@ https://broadcastify.cdnstream1.com/34877
 # Other (2)
 # ============================================================================
 # WITR - College Radio from RIT
-https://streaming.witr.rit.edu/live-aac-96
+https://streaming.witr.rit.edu/high
 
 # Ambient Sleeping Pill
 http://radio.stereoscenic.com/asp-h
